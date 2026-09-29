@@ -4,3 +4,6 @@ th {
 body {
   background-color: #98afc7;
 }
+.note {
+  font-style: italic;
+}
