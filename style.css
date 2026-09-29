@@ -1,9 +1,13 @@
-th {
-  background-color: #82caff;
-}
 body {
   background-color: #98afc7;
 }
 .note {
   font-style: italic;
+}
+p {
+  font-family: monospace;
+}
+h1 {
+  font-family: sans-serif;
+  color: #1a2421;
 }
