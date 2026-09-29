@@ -6,8 +6,12 @@ body {
 }
 p {
   font-family: monospace;
+  color: #000080;
 }
 h1 {
   font-family: sans-serif;
   color: #1a2421;
+}
+.body-text {
+  background-color: #98fb98;
 }
